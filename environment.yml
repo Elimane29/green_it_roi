@@ -1,0 +1,12 @@
+name: greenit-roi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - streamlit
+  - pip
+  - pip:
+      - streamlit
