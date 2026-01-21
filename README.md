@@ -6,6 +6,10 @@ Streamlit app to compare **New vs Refurbished** IT devices using:
 - Fleet volumetry by device type
 - Full parameter documentation with sources & assumptions
 
+### DESCRIPTION DES FICHIERS
+
+# COMMENT RUN LE CODE
+
 ## Project structure
 - `app/` : Streamlit app entry + pages
 - `src/` : business logic (calculations, plotting, documentation)
