@@ -1,8 +1,0 @@
-notebooks/
-├─ 01_device_footprint_analysis.ipynb
-├─ 02_refurb_vs_new_ratios.ipynb
-├─ 03_lifetime_model.ipynb
-└─ 04_score_design.ipynb
-
-
-
