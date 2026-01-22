@@ -3,9 +3,9 @@
 A **decision-support tool** built with Streamlit to compare **new vs refurbished IT equipment** using:
 
 
-### DESCRIPTION DES FICHIERS
+### FILES DESCRIPTION
 
-# COMMENT RUN LE CODE
+# HOW TO RUN THE CODE
 
 ## Project structure
 - `app/` : Streamlit app entry + pages
