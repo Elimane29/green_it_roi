@@ -8,6 +8,7 @@ from matplotlib.patches import Patch
 # CONFIGURATION & DATA
 # ----------------------------
 st.set_page_config(page_title="Green IT ROI Premium", layout="wide")
+st.write("App started")
 
 BRAND_MODIFIERS = {
     "Apple": {"maint": 1.45, "lifetime": 1.25, "carbon": 0.85, "energy": 0.90},
